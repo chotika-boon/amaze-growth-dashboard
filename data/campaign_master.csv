@@ -1,0 +1,13 @@
+campaign_id,campaign_name,media_source,campaign_type,platform,launch_date
+C101,SRCH_UA_Brand_AND,Search Ads,UA,android,2026-03-02
+C102,SRCH_UA_Generic_IOS,Search Ads,UA,ios,2026-03-02
+C201,SOC_UA_Prospecting_AND,Social Ads,UA,android,2026-04-01
+C202,SOC_UA_Lookalike_IOS,Social Ads,UA,ios,2026-04-01
+C301,VID_UA_Creators_AND,Video Ads,UA,android,2026-05-15
+C401,ASA_UA_Keywords_IOS,App Store Ads,UA,ios,2026-02-01
+C501,CNOVA_UA_CPI_AND,ClickNova Network,UA,android,2026-08-01
+C601,AFF_UA_Cashback_ALL,CashBackr Affiliate,UA,both,2026-06-01
+C211,SOC_RT_DPA_AND,Social Ads,RT,android,2026-04-01
+C212,SOC_RT_DPA_IOS,Social Ads,RT,ios,2026-04-01
+C311,VID_RT_Winback_AND,Video Ads,RT,android,2026-06-01
+C801,CRM_RT_Push_Lapsed30D,CRM Push,RT,both,2026-01-05
